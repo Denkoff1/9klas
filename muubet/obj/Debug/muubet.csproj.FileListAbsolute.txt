@@ -1,0 +1,7 @@
+C:\Vanko9a\muubet\bin\Debug\muubet.exe.config
+C:\Vanko9a\muubet\bin\Debug\muubet.exe
+C:\Vanko9a\muubet\bin\Debug\muubet.pdb
+C:\Vanko9a\muubet\obj\Debug\muubet.csproj.AssemblyReference.cache
+C:\Vanko9a\muubet\obj\Debug\muubet.csproj.CoreCompileInputs.cache
+C:\Vanko9a\muubet\obj\Debug\muubet.exe
+C:\Vanko9a\muubet\obj\Debug\muubet.pdb
