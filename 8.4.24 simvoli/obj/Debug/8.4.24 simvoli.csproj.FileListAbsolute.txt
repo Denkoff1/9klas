@@ -1,0 +1,7 @@
+C:\Vanko9a\8.4.24 simvoli\bin\Debug\8.4.24 simvoli.exe.config
+C:\Vanko9a\8.4.24 simvoli\bin\Debug\8.4.24 simvoli.exe
+C:\Vanko9a\8.4.24 simvoli\bin\Debug\8.4.24 simvoli.pdb
+C:\Vanko9a\8.4.24 simvoli\obj\Debug\8.4.24 simvoli.csproj.AssemblyReference.cache
+C:\Vanko9a\8.4.24 simvoli\obj\Debug\8.4.24 simvoli.csproj.CoreCompileInputs.cache
+C:\Vanko9a\8.4.24 simvoli\obj\Debug\8.4.24 simvoli.exe
+C:\Vanko9a\8.4.24 simvoli\obj\Debug\8.4.24 simvoli.pdb
