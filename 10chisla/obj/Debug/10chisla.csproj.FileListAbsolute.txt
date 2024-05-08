@@ -1,0 +1,7 @@
+C:\Vanko9a\10chisla\bin\Debug\10chisla.exe.config
+C:\Vanko9a\10chisla\bin\Debug\10chisla.exe
+C:\Vanko9a\10chisla\bin\Debug\10chisla.pdb
+C:\Vanko9a\10chisla\obj\Debug\10chisla.csproj.AssemblyReference.cache
+C:\Vanko9a\10chisla\obj\Debug\10chisla.csproj.CoreCompileInputs.cache
+C:\Vanko9a\10chisla\obj\Debug\10chisla.exe
+C:\Vanko9a\10chisla\obj\Debug\10chisla.pdb
