@@ -1,0 +1,7 @@
+C:\Vanko9a\21.02.24\bin\Debug\21.02.24.exe.config
+C:\Vanko9a\21.02.24\bin\Debug\21.02.24.exe
+C:\Vanko9a\21.02.24\bin\Debug\21.02.24.pdb
+C:\Vanko9a\21.02.24\obj\Debug\21.02.24.csproj.AssemblyReference.cache
+C:\Vanko9a\21.02.24\obj\Debug\21.02.24.csproj.CoreCompileInputs.cache
+C:\Vanko9a\21.02.24\obj\Debug\21.02.24.exe
+C:\Vanko9a\21.02.24\obj\Debug\21.02.24.pdb
